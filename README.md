@@ -25,7 +25,7 @@ Series C documents are reference-manual style: callable library functions, versi
 | C4 | Quantum Metrology & Verification | Measurement: S = F verification, quantum state tomography, Chaos Operator Card | v13 | **Complete** |
 | C5 | Computational Imaging & Inverse Problems | Reconstruction: invariant-constrained blind deconvolution, PINN aberration recovery | — | To be written |
 | C6 | System Integration for Photonic Circuits | Multi-device PIC workflow: product-of-unitaries loss budget, system-level yield | — | **Complete** |
-| C7 | Benchmark Suite & Validation Database | Standardized test cases, golden outputs, regression tests | — | To be written (incremental) |
+| C7 | Benchmark Suite & Validation Database | Standardized test cases, golden outputs, regression tests | — | **Complete** |
 
 ---
 
