@@ -21,7 +21,7 @@ Series C documents are reference-manual style: callable library functions, versi
 | C0 | Shared Library & Architecture | Master infrastructure: shared Python library, GAI file conventions, device registry | — | To be written |
 | C1 | From Fresnel to Fock Space — Worked Examples | Seven worked examples (WE-1 through WE-7), Hamiltonian framework (see Series D)| v12 | **Complete** (in Series D) |
 | C2 | Path-Integral Tolerance Analysis | Tolerance & yield toolkit: PI alternative to Monte Carlo, eight device cases | v7 | **Complete** |
-| C3 | Invariant-Aware Design Optimization | Forward design: invariant-constrained merit functions, Code V / Zemax integration | — | To be written |
+| C3 | Invariant-Aware Design Optimization | Forward design: invariant-constrained merit functions, Code V / Zemax integration | — | **Complete** |
 | C4 | Quantum Metrology & Verification | Measurement: S = F verification, quantum state tomography, Chaos Operator Card | v13 | **Complete** |
 | C5 | Computational Imaging & Inverse Problems | Reconstruction: invariant-constrained blind deconvolution, PINN aberration recovery | — | To be written |
 | C6 | System Integration for Photonic Circuits | Multi-device PIC workflow: product-of-unitaries loss budget, system-level yield | — | **Complete** |
