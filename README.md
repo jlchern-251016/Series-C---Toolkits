@@ -18,7 +18,7 @@ Series C documents are reference-manual style: callable library functions, versi
 
 | Doc | Title | Role | Version | Status |
 |-----|-------|------|---------|--------|
-| C0 | Shared Library & Architecture | Master infrastructure: shared Python library, GAI file conventions, device registry | — | To be written |
+| C0 | Shared Library & Architecture | Master infrastructure: shared Python library, GAI file conventions, device registry | — |  **Complete** |
 | C1 | From Fresnel to Fock Space — Worked Examples | Seven worked examples (WE-1 through WE-7), Hamiltonian framework (see Series D)| v12 | **Complete** (in Series D) |
 | C2 | Path-Integral Tolerance Analysis | Tolerance & yield toolkit: PI alternative to Monte Carlo, eight device cases | v7 | **Complete** |
 | C3 | Invariant-Aware Design Optimization | Forward design: invariant-constrained merit functions, Code V / Zemax integration | — | **Complete** |
