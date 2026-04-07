@@ -26,6 +26,7 @@ Series C documents are reference-manual style: callable library functions, versi
 | C5 | Computational Imaging & Inverse Problems | Reconstruction: invariant-constrained blind deconvolution, PINN aberration recovery | — | **Complete** |
 | C6 | System Integration for Photonic Circuits | Multi-device PIC workflow: product-of-unitaries loss budget, system-level yield | — | **Complete** |
 | C7 | Benchmark Suite & Validation Database | Standardized test cases, golden outputs, regression tests | — | **Complete** |
+| C8 | Distribution-aware production engineering | Gaussian and Non-Gaussian distributions | — | **Complete** |
 
 ---
 
